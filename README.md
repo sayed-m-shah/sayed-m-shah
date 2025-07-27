@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I am Sayed Muslim Shah
 
-<!--
-**sayed-m-shah/sayed-m-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔍 I’m currently learning **data analysis techniques and tools**  
+- 💻 I’m working on **real-world projects** to gain practical experience  
+- 📊 This repository showcases my journey through various **data analytics projects**, highlighting my dedication to mastering this field and my commitment to continuous learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Projects
+Here are some of my highlighted projects:  
+
+- **🏨 Hotel Domain Analysis**  
+- **📈 Ad-Hoc Insights (Sales & Finance)**  
+- **📊 Shield Insurance Project**  
+- **📡 Telecom 5G Customer Behavior Analysis**
+
+---
+
+⭐ *Feel free to check my repositories and give them a star if you find them helpful!*

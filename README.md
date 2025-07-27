@@ -9,9 +9,10 @@
 ## 📌 Pinned Projects
 Here are some of my highlighted projects:  
 
-- **🏨 Hotel Domain Analysis**  
-- **📈 Ad-Hoc Insights (Sales & Finance)**  
-- **📊 Shield Insurance Project**  
+- **📊 Shield Insurance Project**
+- **📊 Business_Insights_360**
+- **🏨 AtliQ_Hospitality_Analysis_PowerBI_project**
+- **📈 Excel-Sales-Analytics**   
 - **📡 Telecom 5G Customer Behavior Analysis**
 
 ---

@@ -13,7 +13,8 @@ Here are some of my highlighted projects:
 - **📊 Business_Insights_360**
 - **🏨 AtliQ_Hospitality_Analysis_PowerBI_project**
 - **📈 Excel-Sales-Analytics**   
-- **📡 Telecom 5G Customer Behavior Analysis**
+- **📡 AtliQ-Telecom-Analysis---PowerBI**
+- **🏨 Hotels-Domain-Analysis-using-Python-main**
 
 ---
 
